@@ -1,0 +1,23 @@
+.child {
+    background: linear-gradient(greenyellow,red,yellow);
+    width: 310px;
+    height: 400px;
+    border: 5px solid red;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+
+
+.child-span {
+color: aqua;
+}
+
+#parents {
+    background-image:url(./car.png);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
